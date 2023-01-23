@@ -1,5 +1,5 @@
 # Olá! Eu sou o Luís Henrique
-### Sou um Desenvolvedor Web atualmente atuando como Back-End.
+#### Desenvolvedor Web - Back-End.
 <hr>
 <div>
 <div style="justify-content: center;">
